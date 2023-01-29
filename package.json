@@ -1,0 +1,16 @@
+{
+  "name": "nodeechowebsocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socketio": "^1.0.0",
+    "websocket": "^1.0.30"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
